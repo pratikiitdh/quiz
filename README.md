@@ -1,2 +1,2 @@
 # quiz
-Timed quiz game 
+Timed Quiz Game 
